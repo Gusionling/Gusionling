@@ -1,4 +1,8 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=%20SOUFFLE%20%20&height=200&fontSize=80&animation=twinkling&fontAlignY=34&desc=HyeongKyu%20Lim%20)
+<div align='center'>
+<strong>🌱 Hi I'm Developer studying backend.</strong>
+</div>
+<br>
 
 <!--
 **Gusionling/Gusionling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
