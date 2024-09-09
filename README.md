@@ -9,6 +9,19 @@
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white)
 ![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 ![JAVA](https://img.shields.io/badge/JAVA-D0271D?style=for-the-badge&logo=OpenJDK&logoColor=white)
+<br/><br/>
+
+
+## 🔭 I’ve been working on ...
+- [2023.03 - 2024.08] University MakeUs Chellenge Soongsil 4th,6th (node.js, spring boot)
+- [2023.10 - ing] Google Developer Student Club Soongsil
+- [2024.08 - ing] HSBC IT Analyst, Intern
+<br/><br/>
+
+## 🔭 자격증
+|취득일|자격|발행처|
+|------|---|---|
+|2024.09|SQL개발자(SQLD자격)|한국데이터진흥원|
 
 <!--
 **Gusionling/Gusionling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
