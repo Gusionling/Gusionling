@@ -23,6 +23,10 @@
 |------|---|---|
 |2024.09|SQL개발자(SQLD자격)|한국데이터진흥원|
 
+## 💻 Problem Solving
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gusion)](https://solved.ac/gusion)
+
+
 <!--
 **Gusionling/Gusionling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
