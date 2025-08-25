@@ -15,7 +15,7 @@
 ## 🔭 I’ve been working on ...
 - [2023.03 - 2024.08] University MakeUs Chellenge Soongsil 4th,6th (node.js, spring boot)
 - [2023.10 - ing] Google Developer Student Club Soongsil
-- [2024.08 - ing] HSBC IT Analyst, Intern
+- [2024.08 - 2025.07] HSBC IT Analyst, Intern
 <br/><br/>
 
 ## 🔭 자격증
