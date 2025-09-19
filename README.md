@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=%20Gusion%20%20&height=200&fontSize=80&animation=twinkling&fontAlignY=34&desc=HyeongKyu%20Lim%20)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=%20GUSION%20%20&height=200&fontSize=80&animation=twinkling&fontAlignY=34&desc=HyeongKyu%20Lim%20)
 <div align='center'>
 <strong>🌱 Hi I'm Developer studying backend.</strong>
 </div>
