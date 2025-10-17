@@ -16,6 +16,7 @@
 - [2023.03 - 2024.08] University MakeUs Chellenge Soongsil 4th,6th (node.js, spring boot)
 - [2023.10 - ing] Google Developer Student Club Soongsil
 - [2024.08 - 2025.07] HSBC IT Analyst, Intern
+- [2025.08 - ing] LG U+ 유레카 boot camp 벡엔드 과정
 <br/><br/>
 
 ## 🔭 자격증
